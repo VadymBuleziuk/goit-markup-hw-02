@@ -45,6 +45,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .address-link:hover,
 .address-link:focus {
@@ -81,7 +82,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.adv-decription {
+.adv-description {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
